@@ -2,27 +2,27 @@
   "color": {
     "primary": {
       "darker": {
-        "value": "{color.green.800}",
+        "value": "{color.pink.800}",
         "type": "color"
       },
       "dark": {
-        "value": "{color.green.700}",
+        "value": "{color.pink.700}",
         "type": "color"
       },
       "default": {
-        "value": "{color.green.500}",
+        "value": "{color.pink.500}",
         "type": "color"
       },
       "light": {
-        "value": "{color.green.400}",
+        "value": "{color.pink.400}",
         "type": "color"
       },
       "lighter": {
-        "value": "{color.green.200}",
+        "value": "{color.pink.200}",
         "type": "color"
       },
       "lightest": {
-        "value": "{color.green.100}",
+        "value": "{color.pink.100}",
         "type": "color"
       }
     },
