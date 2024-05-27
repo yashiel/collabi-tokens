@@ -65,7 +65,7 @@ jobs:
         with:
           source-files: "platform_tokens/"
           destination-username: "yashi"
-          destination-repository: "https://mimobimedia@dev.azure.com/mimobimedia/Colabi-AI-Web/_git/Colabi-AI-Web"
+          destination-repository: "mimobimedia/Colabi-AI-Web/_git/Colabi-AI-Web"
           destination-branch: "dev-animation"
           destination-directory: "src/styles"
           commit-email: "hi@yashi.com"
