@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 13 Feb 2024 05:41:53 GMT
+ * Generated on Mon, 27 May 2024 10:44:06 GMT
  */
 
 :root {
@@ -67,6 +67,7 @@
   --oc-border-width-3: 3px;
   --oc-border-width-2: 2px;
   --oc-border-width-1: 1px;
+  --oc-color-pink-500: #ff428f;
   --oc-color-black-black: #111111;
   --oc-color-white-white: #ffffff;
   --oc-color-gray-400: #0b0b0b;
@@ -255,7 +256,15 @@
   --oc-color-success-default: var(--oc-color-green-500);
   --oc-color-accent-default: var(--oc-color-teal-500);
   --oc-color-secondary-default: var(--oc-color-orange-500);
-  --oc-color-primary-default: var(--oc-color-green-500);
+  --oc-color-primary-default: var(--oc-color-pink-500);
+  --oc-color-pink-900: var(--oc-color-pink-500);
+  --oc-color-pink-800: var(--oc-color-pink-500);
+  --oc-color-pink-700: var(--oc-color-pink-500);
+  --oc-color-pink-600: var(--oc-color-pink-500);
+  --oc-color-pink-400: var(--oc-color-pink-500);
+  --oc-color-pink-300: var(--oc-color-pink-500);
+  --oc-color-pink-200: var(--oc-color-pink-500);
+  --oc-color-pink-100: var(--oc-color-pink-500);
   --oc-color-teal-900: var(--oc-color-teal-500);
   --oc-color-teal-800: var(--oc-color-teal-500);
   --oc-color-teal-700: var(--oc-color-teal-500);
@@ -370,11 +379,11 @@
   --oc-color-secondary-light: var(--oc-color-orange-300);
   --oc-color-secondary-dark: var(--oc-color-orange-600);
   --oc-color-secondary-darker: var(--oc-color-orange-800);
-  --oc-color-primary-lightest: var(--oc-color-green-100);
-  --oc-color-primary-lighter: var(--oc-color-green-200);
-  --oc-color-primary-light: var(--oc-color-green-400);
-  --oc-color-primary-dark: var(--oc-color-green-700);
-  --oc-color-primary-darker: var(--oc-color-green-800);
+  --oc-color-primary-lightest: var(--oc-color-pink-100);
+  --oc-color-primary-lighter: var(--oc-color-pink-200);
+  --oc-color-primary-light: var(--oc-color-pink-400);
+  --oc-color-primary-dark: var(--oc-color-pink-700);
+  --oc-color-primary-darker: var(--oc-color-pink-800);
   --oc-border-action-hover: var(--oc-color-primary-light);
   --oc-border-action: var(--oc-color-primary-dark);
   --oc-border-error: var(--oc-color-error-light);
