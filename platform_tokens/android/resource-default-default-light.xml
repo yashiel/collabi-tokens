@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 13 Feb 2024 05:41:54 GMT
+  Generated on Mon, 27 May 2024 10:44:06 GMT
 -->
 <resources>
   <string name="oc_radius_0">0</string>
@@ -82,12 +82,21 @@
   <color name="oc_color_gray_400">#ff0b0b0b</color>
   <color name="oc_color_white_white">#ffffffff</color>
   <color name="oc_color_black_black">#ff111111</color>
-  <color name="oc_color_primary_darker">#ff087c43</color>
-  <color name="oc_color_primary_dark">#ff087c43</color>
-  <color name="oc_color_primary_default">#ff087c43</color>
-  <color name="oc_color_primary_light">#ff087c43</color>
-  <color name="oc_color_primary_lighter">#ff087c43</color>
-  <color name="oc_color_primary_lightest">#ff087c43</color>
+  <color name="oc_color_pink_100">#ffff428f</color>
+  <color name="oc_color_pink_200">#ffff428f</color>
+  <color name="oc_color_pink_300">#ffff428f</color>
+  <color name="oc_color_pink_400">#ffff428f</color>
+  <color name="oc_color_pink_500">#ffff428f</color>
+  <color name="oc_color_pink_600">#ffff428f</color>
+  <color name="oc_color_pink_700">#ffff428f</color>
+  <color name="oc_color_pink_800">#ffff428f</color>
+  <color name="oc_color_pink_900">#ffff428f</color>
+  <color name="oc_color_primary_darker">#ffff428f</color>
+  <color name="oc_color_primary_dark">#ffff428f</color>
+  <color name="oc_color_primary_default">#ffff428f</color>
+  <color name="oc_color_primary_light">#ffff428f</color>
+  <color name="oc_color_primary_lighter">#ffff428f</color>
+  <color name="oc_color_primary_lightest">#ffff428f</color>
   <color name="oc_color_secondary_darker">#fff17f29</color>
   <color name="oc_color_secondary_dark">#fff17f29</color>
   <color name="oc_color_secondary_default">#fff17f29</color>
@@ -396,20 +405,20 @@
   <string name="oc_surface_warning">#ffeab010</string>
   <string name="oc_surface_information">#ff0065ff</string>
   <string name="oc_surface_highlight">#ff2292a4</string>
-  <string name="oc_surface_action">#ff087c43</string>
-  <string name="oc_surface_action_hover">#ff087c43</string>
+  <string name="oc_surface_action">#ffff428f</string>
+  <string name="oc_surface_action_hover">#ffff428f</string>
   <string name="oc_border_primary">#ffd4d4d4</string>
-  <string name="oc_border_secondary">#ff087c43</string>
+  <string name="oc_border_secondary">#ffff428f</string>
   <string name="oc_border_information">#ff0065ff</string>
   <string name="oc_border_success">#ff087c43</string>
   <string name="oc_border_warning">#ffeab010</string>
   <string name="oc_border_error">#ffc2210f</string>
   <string name="oc_border_disabled">#ff707070</string>
-  <string name="oc_border_action">#ff087c43</string>
-  <string name="oc_border_action_hover">#ff087c43</string>
-  <string name="oc_border_focus">#ff087c43</string>
+  <string name="oc_border_action">#ffff428f</string>
+  <string name="oc_border_action_hover">#ffff428f</string>
+  <string name="oc_border_focus">#ffff428f</string>
   <string name="oc_border_highlight">#ff2292a4</string>
-  <string name="oc_icon_primary">#ff087c43</string>
+  <string name="oc_icon_primary">#ffff428f</string>
   <string name="oc_icon_information">#ff0065ff</string>
   <string name="oc_icon_success">#ff087c43</string>
   <string name="oc_icon_warning">#ffeab010</string>

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 13 Feb 2024 05:41:54 GMT
+// Generated on Mon, 27 May 2024 10:44:07 GMT
 
 
 #import ".h"
@@ -577,44 +577,109 @@
         @"item": @"black"
         }
       },
+    @"pink": @{
+      @"100": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink100",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"100"
+        },
+      @"200": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink200",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"200"
+        },
+      @"300": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink300",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"300"
+        },
+      @"400": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink400",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"400"
+        },
+      @"500": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink500",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"500"
+        },
+      @"600": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink600",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"600"
+        },
+      @"700": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink700",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"700"
+        },
+      @"800": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink800",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"800"
+        },
+      @"900": @{
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+        @"name": @"OcColorPink900",
+        @"category": @"color",
+        @"type": @"pink",
+        @"item": @"900"
+        }
+      },
     @"primary": @{
       @"darker": @{
-        @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
         @"name": @"OcColorPrimaryDarker",
         @"category": @"color",
         @"type": @"primary",
         @"item": @"darker"
         },
       @"dark": @{
-        @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
         @"name": @"OcColorPrimaryDark",
         @"category": @"color",
         @"type": @"primary",
         @"item": @"dark"
         },
       @"default": @{
-        @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
         @"name": @"OcColorPrimaryDefault",
         @"category": @"color",
         @"type": @"primary",
         @"item": @"default"
         },
       @"light": @{
-        @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
         @"name": @"OcColorPrimaryLight",
         @"category": @"color",
         @"type": @"primary",
         @"item": @"light"
         },
       @"lighter": @{
-        @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
         @"name": @"OcColorPrimaryLighter",
         @"category": @"color",
         @"type": @"primary",
         @"item": @"lighter"
         },
       @"lightest": @{
-        @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+        @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
         @"name": @"OcColorPrimaryLightest",
         @"category": @"color",
         @"type": @"primary",
@@ -2844,7 +2909,7 @@
       @"type": @"disabled"
       },
     @"success": @{
-      @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+      @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
       @"name": @"OcSurfaceSuccess",
       @"category": @"surface",
       @"type": @"success"
@@ -2874,13 +2939,13 @@
       @"type": @"highlight"
       },
     @"action": @{
-      @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+      @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
       @"name": @"OcSurfaceAction",
       @"category": @"surface",
       @"type": @"action"
       },
     @"action-hover": @{
-      @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+      @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
       @"name": @"OcSurfaceActionHover",
       @"category": @"surface",
       @"type": @"action-hover"
@@ -2894,7 +2959,7 @@
       @"type": @"primary"
       },
     @"secondary": @{
-      @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+      @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
       @"name": @"OcBorderSecondary",
       @"category": @"border",
       @"type": @"secondary"
@@ -2930,19 +2995,19 @@
       @"type": @"disabled"
       },
     @"action": @{
-      @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+      @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
       @"name": @"OcBorderAction",
       @"category": @"border",
       @"type": @"action"
       },
     @"action-hover": @{
-      @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+      @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
       @"name": @"OcBorderActionHover",
       @"category": @"border",
       @"type": @"action-hover"
       },
     @"focus": @{
-      @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+      @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
       @"name": @"OcBorderFocus",
       @"category": @"border",
       @"type": @"focus"
@@ -2956,7 +3021,7 @@
     },
   @"icon": @{
     @"primary": @{
-      @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+      @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
       @"name": @"OcIconPrimary",
       @"category": @"icon",
       @"type": @"primary"

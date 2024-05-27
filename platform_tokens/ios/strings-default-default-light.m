@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 13 Feb 2024 05:41:54 GMT
+// Generated on Mon, 27 May 2024 10:44:06 GMT
 
 
 #import ".h"
@@ -87,12 +87,21 @@ NSString * const OcColorGray300 = [UIColor colorWithRed:0.086f green:0.086f blue
 NSString * const OcColorGray400 = [UIColor colorWithRed:0.043f green:0.043f blue:0.043f alpha:1.000f];
 NSString * const OcColorWhiteWhite = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const OcColorBlackBlack = [UIColor colorWithRed:0.067f green:0.067f blue:0.067f alpha:1.000f];
-NSString * const OcColorPrimaryDarker = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
-NSString * const OcColorPrimaryDark = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
-NSString * const OcColorPrimaryDefault = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
-NSString * const OcColorPrimaryLight = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
-NSString * const OcColorPrimaryLighter = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
-NSString * const OcColorPrimaryLightest = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
+NSString * const OcColorPink100 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPink200 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPink300 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPink400 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPink500 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPink600 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPink700 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPink800 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPink900 = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPrimaryDarker = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPrimaryDark = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPrimaryDefault = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPrimaryLight = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPrimaryLighter = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcColorPrimaryLightest = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
 NSString * const OcColorSecondaryDarker = [UIColor colorWithRed:0.945f green:0.498f blue:0.161f alpha:1.000f];
 NSString * const OcColorSecondaryDark = [UIColor colorWithRed:0.945f green:0.498f blue:0.161f alpha:1.000f];
 NSString * const OcColorSecondaryDefault = [UIColor colorWithRed:0.945f green:0.498f blue:0.161f alpha:1.000f];
@@ -401,20 +410,20 @@ NSString * const OcSurfaceError = [UIColor colorWithRed:0.761f green:0.129f blue
 NSString * const OcSurfaceWarning = [UIColor colorWithRed:0.918f green:0.690f blue:0.063f alpha:1.000f];
 NSString * const OcSurfaceInformation = [UIColor colorWithRed:0.000f green:0.396f blue:1.000f alpha:1.000f];
 NSString * const OcSurfaceHighlight = [UIColor colorWithRed:0.133f green:0.573f blue:0.643f alpha:1.000f];
-NSString * const OcSurfaceAction = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
-NSString * const OcSurfaceActionHover = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
+NSString * const OcSurfaceAction = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcSurfaceActionHover = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
 NSString * const OcBorderPrimary = [UIColor colorWithRed:0.831f green:0.831f blue:0.831f alpha:1.000f];
-NSString * const OcBorderSecondary = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
+NSString * const OcBorderSecondary = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
 NSString * const OcBorderInformation = [UIColor colorWithRed:0.000f green:0.396f blue:1.000f alpha:1.000f];
 NSString * const OcBorderSuccess = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
 NSString * const OcBorderWarning = [UIColor colorWithRed:0.918f green:0.690f blue:0.063f alpha:1.000f];
 NSString * const OcBorderError = [UIColor colorWithRed:0.761f green:0.129f blue:0.059f alpha:1.000f];
 NSString * const OcBorderDisabled = [UIColor colorWithRed:0.439f green:0.439f blue:0.439f alpha:1.000f];
-NSString * const OcBorderAction = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
-NSString * const OcBorderActionHover = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
-NSString * const OcBorderFocus = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
+NSString * const OcBorderAction = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcBorderActionHover = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
+NSString * const OcBorderFocus = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
 NSString * const OcBorderHighlight = [UIColor colorWithRed:0.133f green:0.573f blue:0.643f alpha:1.000f];
-NSString * const OcIconPrimary = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
+NSString * const OcIconPrimary = [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f];
 NSString * const OcIconInformation = [UIColor colorWithRed:0.000f green:0.396f blue:1.000f alpha:1.000f];
 NSString * const OcIconSuccess = [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f];
 NSString * const OcIconWarning = [UIColor colorWithRed:0.918f green:0.690f blue:0.063f alpha:1.000f];
@@ -960,42 +969,105 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"item": @"black"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink100",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"100"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink200",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"200"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink300",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"300"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink400",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"400"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink500",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"500"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink600",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"600"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink700",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"700"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink800",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"800"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
+  @"name": @"OcColorPink900",
+    @"category": @"color",
+    @"type": @"pink",
+    @"item": @"900"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcColorPrimaryDarker",
     @"category": @"color",
     @"type": @"primary",
     @"item": @"darker"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcColorPrimaryDark",
     @"category": @"color",
     @"type": @"primary",
     @"item": @"dark"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcColorPrimaryDefault",
     @"category": @"color",
     @"type": @"primary",
     @"item": @"default"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcColorPrimaryLight",
     @"category": @"color",
     @"type": @"primary",
     @"item": @"light"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcColorPrimaryLighter",
     @"category": @"color",
     @"type": @"primary",
     @"item": @"lighter"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcColorPrimaryLightest",
     @"category": @"color",
     @"type": @"primary",
@@ -3142,13 +3214,13 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"highlight"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcSurfaceAction",
     @"category": @"surface",
     @"type": @"action"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcSurfaceActionHover",
     @"category": @"surface",
     @"type": @"action-hover"
@@ -3160,7 +3232,7 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"primary"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcBorderSecondary",
     @"category": @"border",
     @"type": @"secondary"
@@ -3196,19 +3268,19 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"disabled"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcBorderAction",
     @"category": @"border",
     @"type": @"action"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcBorderActionHover",
     @"category": @"border",
     @"type": @"action-hover"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcBorderFocus",
     @"category": @"border",
     @"type": @"focus"
@@ -3220,7 +3292,7 @@ NSString * const OcIconError = [UIColor colorWithRed:0.761f green:0.129f blue:0.
     @"type": @"highlight"
   },
 @{
-  @"value": [UIColor colorWithRed:0.031f green:0.486f blue:0.263f alpha:1.000f],
+  @"value": [UIColor colorWithRed:1.000f green:0.259f blue:0.561f alpha:1.000f],
   @"name": @"OcIconPrimary",
     @"category": @"icon",
     @"type": @"primary"

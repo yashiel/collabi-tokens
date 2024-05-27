@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 13 Feb 2024 05:41:54 GMT
+// Generated on Mon, 27 May 2024 10:44:06 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -87,6 +87,15 @@ OcColorGray300,
 OcColorGray400,
 OcColorWhiteWhite,
 OcColorBlackBlack,
+OcColorPink100,
+OcColorPink200,
+OcColorPink300,
+OcColorPink400,
+OcColorPink500,
+OcColorPink600,
+OcColorPink700,
+OcColorPink800,
+OcColorPink900,
 OcColorPrimaryDarker,
 OcColorPrimaryDark,
 OcColorPrimaryDefault,
